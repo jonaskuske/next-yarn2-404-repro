@@ -1,7 +1,7 @@
 {
   "name": "repro",
   "scripts": {
-    "start": "node ./.yarn/releases/yarn-berry.js next"
+    "start": "node ./.yarn/releases/yarn-berry next"
   },
   "dependencies": {
     "next": "^9.3.3",
